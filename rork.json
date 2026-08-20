@@ -1,0 +1,13 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "Muslim Widgets",
+      "path": "ios-ayan",
+      "framework": "swift",
+      "settings": {
+        "displayName": "Muslim Widgets: Hadith & Quran"
+      }
+    }
+  ]
+}
